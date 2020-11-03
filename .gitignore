@@ -1,0 +1,4 @@
+# we ignore the files named
+contact2.html
+./images/*.jpg
+.DStore
